@@ -18,7 +18,7 @@ A simple interactive web app built with vanilla JavaScript that lets users chang
 - `while` loop for retry logic
 
 ## Live Demo
-[Add your GitHub Pages link here once deployed]
+[View the live website](https://heikhamvelen.github.io/background-color-changer/)
 
 ## What I Learned
 Practiced connecting HTML and JavaScript via the DOM, avoided repeated code using parallel arrays and loops, and learned how JavaScript scope affects randomness logic.
